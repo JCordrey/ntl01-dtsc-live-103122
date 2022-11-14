@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Charles,Jonathan,Nathaniel,,Roshni
-=======
-Zachary
->>>>>>> upstream/main
+Brandon,Leif,Zachary,Michael,Jake,Jasmine,Jose,Ilan,,Nathaniel,Jonathan
